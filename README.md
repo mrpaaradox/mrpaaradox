@@ -1,2 +1,2 @@
 
-## Paradox don't chase competition. He creates collabration.
+## It will be OK, Sweetie.
