@@ -1,2 +1,1 @@
-
-## It will be OK, Sweetie.
+## Doesn't matter what you use, it should solve a problem.
