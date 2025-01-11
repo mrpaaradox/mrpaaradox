@@ -1,3 +1,3 @@
 ## Rome was not built in a day. 
 
-## Make it beautifully
+## So make it beautifully
