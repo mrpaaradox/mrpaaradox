@@ -1,1 +1,1 @@
-## I love silence.
+## Silence is the key to success
