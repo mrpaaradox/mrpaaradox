@@ -1,1 +1,1 @@
-be ahead of time. it's tested.
+play ahead of time. it's battle tested.
