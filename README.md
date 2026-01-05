@@ -1,1 +1,1 @@
-play ahead of time. it's battle tested.
+life is all about building & learning.
