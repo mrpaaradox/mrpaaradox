@@ -29,5 +29,3 @@ Agentic coded pizza ordering application.
 Developed a custom Google Docs solution focused on data confidentiality and user accessibility.
 
 ---
-
-> # "life is all about building & learning, my friend."
