@@ -24,8 +24,8 @@ Agentic coded pizza ordering application.
 ---
 
 ## Internships
+**SS Enterprises  -  Full Stack Web Developer Intern**
 
-**SS Enterprises | Full Stack Web Developer Intern**
-Developed a custom Google Docs solution focused on data confidentiality and user accessibility.
+#### Work - Developed a custom Google Docs solution focused on data confidentiality and user accessibility.
 
 ---
