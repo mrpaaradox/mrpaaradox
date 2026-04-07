@@ -19,7 +19,7 @@ Chat application inspired by Slack.
 
 ### [Pizza Store - Agentic Coded](https://pizza.mrpaaradox.com)
 
-Agentic coded pizza ordering application.
+Pizza ordering application.
 
 ---
 
