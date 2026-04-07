@@ -17,7 +17,7 @@ Real-time voice and video calling application with authentication.
 
 Chat application inspired by Slack.
 
-### [Pizza Store](https://pizza.mrpaaradox.com)
+### [Pizza Store - Agentic Coded](https://pizza.mrpaaradox.com)
 
 Agentic coded pizza ordering application.
 
