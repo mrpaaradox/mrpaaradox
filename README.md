@@ -22,10 +22,3 @@ Chat application inspired by Slack.
 Pizza ordering application.
 
 ---
-
-## Internships
-**SS Enterprises  -  Full Stack Web Developer Intern**
-
-#### Work - Developed a custom Google Docs solution focused on data confidentiality and user accessibility.
-
----
